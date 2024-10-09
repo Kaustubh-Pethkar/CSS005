@@ -11,3 +11,7 @@ header{
 p{
     color: red;
 }
+
+.highlight{
+    color: green;
+}
